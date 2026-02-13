@@ -1,6 +1,6 @@
 # NYC Film Permits API
 
-A Flask API for querying NYC film permit data from [NYC Open Data](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p).
+A Flask API for querying NYC film permit data from [NYC Open Data](https://catalog.data.gov/dataset/film-permits).
 
 ## Setup
 
@@ -162,5 +162,8 @@ Returns basic statistics about the dataset.
 
 ## Data Source
 
-[Film Permits](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p) dataset from NYC Open Data, provided by the Mayor's Office of Media & Entertainment.
-We have use ai to help us!
+[Film Permits](https://catalog.data.gov/dataset/film-permits) dataset from NYC Open Data, provided by the Mayor's Office of Media & Entertainment.
+
+## Acknowledgments
+
+We used AI (Claude by Anthropic) to assist with the development of this API and documentation.
