@@ -167,3 +167,11 @@ Returns basic statistics about the dataset.
 ## Acknowledgments
 
 We used AI (Claude by Anthropic) to assist with the development of this API and documentation.
+
+## Testing
+
+Run the tests with:
+
+```
+pytest test_api.py test_data_quality.py -v
+```
