@@ -18,7 +18,7 @@ Manhattan alone holds 50.7% of permits (8,176), followed by Brooklyn at 32.7% (5
 
 ## Finding 4: Television Dominates Permit Categories, but Theater Is the Second Largest
 
-Television accounts for 42.3% of all permits (6,828), followed by Theater at 19.2% (3,100) and Film at 14.0% (2,252). Notably, "Episodic series" is the top subcategory with 4,195 records — nearly all under Television — reflecting NYC's role as a hub for ongoing TV production. The less common categories (Documentary at 0.9%, Student at 0.5%, Music Video at 0.4%) collectively make up under 2%, so filtering by these categories will return very small result sets.
+Television accounts for 42.3% of all permits (6,828), followed by Theater at 19.2% (3,100) and Film at 14.0% (2,252). Notably, "Episodic series" is the top subcategory with 4,195 records — nearly all under Television — reflecting NYC's role as a hub for ongoing TV production.The less common categories (Documentary at 0.9%, Student at 0.5%, Music Video at 0.4%) collectively make up under 2%, so filtering by these categories will return very small result sets.
 
 ## Finding 5: Nearly All Permits Are Domestic, With Only 21 International Records
 
