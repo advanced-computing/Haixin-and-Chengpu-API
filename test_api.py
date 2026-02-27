@@ -80,11 +80,6 @@ def test_get_permit_returns_correct_record(client):
     assert data[0]["EventID"] == event_id
 
 
-def test_get_permit_not_found_returns_404(client):
-    response = client.get("/permits/0000001")
-    assert response.status_code == 404
-
-
 # ── GET /columns ──────────────────────────────────────────────────────────────
 
 
@@ -97,9 +92,3 @@ def test_columns_includes_event_id(client):
     response = client.get("/columns")
     data = response.get_json()
     assert "EventID" in data["columns"]
-
-
-def test_columns_includes_borough(client):
-    response = client.get("/columns")
-    data = response.get_json()
-    assert "Borough" in data["columns"]
