@@ -164,10 +164,6 @@ Returns basic statistics about the dataset.
 
 [Film Permits](https://catalog.data.gov/dataset/film-permits) dataset from NYC Open Data, provided by the Mayor's Office of Media & Entertainment.
 
-## Acknowledgments
-
-We used AI (Claude by Anthropic) to assist with the development of this API and documentation.
-
 ## Testing
 
 Run the tests with:

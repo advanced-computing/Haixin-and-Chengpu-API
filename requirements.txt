@@ -1,2 +1,5 @@
 flask
 pandas
+duckdb
+openpyxl
+pytest
